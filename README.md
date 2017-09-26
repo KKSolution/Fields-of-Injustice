@@ -1,1 +1,4 @@
 # Fields-of-Injustice
+
+
+DEMO SHOULD BE IN THE DEBUG FOLDER.
